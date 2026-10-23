@@ -33,17 +33,17 @@
   - Slicer
   
 ## Insights
- 1.KPI :
+ **1.KPI :**
  - Customer churn in four year : 20%
  - Total customers : 49.6K
  - Expected revenue loss due to churn : 38M
- - Return rate : 40%  *High return rate affect the net revenue as well business. No data available about return reason *
+ - Return rate : 40%  *High return rate affect the net revenue as well business. No data available about return reason*
  
- 2.Churn trend: Number of churn customer is high for April, June and September in each year.
+ **2.Churn trend:** Number of churn customer is high for April, June and September in each year.
  
- 3. Customer churn rate by age : Segmented customer age who have churned and found that customers between 18 - 25 have churned more than 20%
+ **3.Customer churn rate by age :** Segmented customer age who have churned and found that customers between 18 - 25 have churned more than 20%
  
- 4.Customer churn rate by gender : Male 20.30%, Female 19.73%
+ **4.Customer churn rate by gender :** Male 20.30%, Female 19.73%
  
 ## Recommendation :
  - Run ads with discount for those month when number of churn customers is high.
