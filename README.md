@@ -1,7 +1,7 @@
 # E -commerce customer churn analysis
 
 ## Overview
-#### The project analyze customer churn data using SQL, Excel and Power BI. Each row shows unique purchases/orders with order date. The project analyze churned customers age, gender, purchase amount and quantity and cohort analysis.
+#### The project analyze customer churn data using SQL, Excel and Power BI. Each row shows unique purchases/orders with order date. 
 
 ## Dataset Overview
 - Purchase date
